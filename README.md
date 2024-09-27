@@ -52,8 +52,8 @@ bash bulk_download.sh
 - The unpaired sequences dataset used to train AntiBERTa and AntiBERTa2 is a very large file (>40GB).
 - The paired sequences dataset used to train AntiBERTa2 only is smaller (~3.0GB).
 
-### 1.3 Run the `mlm.ipynb` file
+## 2 Run the `mlm.ipynb` file
 Run it sequentially from the beginning to the end, and save the checkpoints you want.
-### 1.4 Run the `paratope_prediction.ipynb` file
+## 3 Run the `paratope_prediction.ipynb` file
 
 **Note**: I have provided detailed comments in each notebook file.
